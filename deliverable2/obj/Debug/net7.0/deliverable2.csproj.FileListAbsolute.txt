@@ -1,0 +1,15 @@
+/Users/denaelivingston/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.csproj.AssemblyReference.cache
+/Users/denaelivingston/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denaelivingston/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.AssemblyInfoInputs.cache
+/Users/denaelivingston/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.AssemblyInfo.cs
+/Users/denaelivingston/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.csproj.CoreCompileInputs.cache
+/Users/denaelivingston/Projects/deliverable2/deliverable2/bin/Debug/net7.0/deliverable2
+/Users/denaelivingston/Projects/deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.deps.json
+/Users/denaelivingston/Projects/deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.runtimeconfig.json
+/Users/denaelivingston/Projects/deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.dll
+/Users/denaelivingston/Projects/deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.pdb
+/Users/denaelivingston/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.dll
+/Users/denaelivingston/Projects/deliverable2/deliverable2/obj/Debug/net7.0/refint/deliverable2.dll
+/Users/denaelivingston/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.pdb
+/Users/denaelivingston/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.genruntimeconfig.cache
+/Users/denaelivingston/Projects/deliverable2/deliverable2/obj/Debug/net7.0/ref/deliverable2.dll
